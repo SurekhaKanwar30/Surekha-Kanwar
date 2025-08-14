@@ -1,13 +1,16 @@
-# Surekha-Kanwar
-Hi, I’m Surekha Kanwar — an MTech graduate in Data Science with over 9 years of diverse industry experience across data analysis, digital marketing, and strategic program management. I’m passionate about turning data into actionable insights, building intelligent solutions, and creating real-world impact through technology and social initiatives.
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Surekha Kanwar</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
+an MTech graduate in Data Science with over 9 years of diverse industry experience across data analysis, digital marketing, and strategic program management. I’m passionate about turning data into actionable insights, building intelligent solutions, and creating real-world impact through technology and social initiatives.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekhakanwar30&label=Profile%20views&color=0e75b6&style=flat" alt="surekhakanwar30" /> </p>
 
+- 🔭 I’m currently working as **Data Science Trainer**
+
+- 📫 How to reach me **kanwar.surekha@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/surekha kanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surekha kanwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/surekha-kanwar-81002076/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surekha-kanwar-81002076/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
