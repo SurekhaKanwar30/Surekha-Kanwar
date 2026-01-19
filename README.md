@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surekha Kanwar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-an MTech graduate in Data Science with over 9 years of diverse industry experience across data analysis, digital marketing, and strategic program management. I’m passionate about turning data into actionable insights, building intelligent solutions, and creating real-world impact through technology and social initiatives.
+an MTech graduate in Data Science with over 10 years of diverse industry experience across data analysis, digital marketing, and strategic program management. I’m passionate about turning data into actionable insights, building intelligent solutions, and creating real-world impact through technology and social initiatives.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekhakanwar30&label=Profile%20views&color=0e75b6&style=flat" alt="surekhakanwar30" /> </p>
 
